@@ -1,0 +1,10 @@
+[project]
+name = "mulitenant-alchemy"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "advanced-alchemy>=1.0.1",
+    "litestar>=2.15.1",
+]
